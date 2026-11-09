@@ -1,0 +1,12 @@
+{
+  "awardCategories": [
+    "contracts"
+  ],
+  "naicsCodes": [
+    "5415"
+  ],
+  "dateType": "date_signed",
+  "lastDays": 14,
+  "minAmount": 100000,
+  "maxItems": 20
+}
